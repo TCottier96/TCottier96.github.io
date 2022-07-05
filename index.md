@@ -5,13 +5,11 @@ This website provides videos of the motion-induced position shifts we used in ou
 	
 
 ### Flash-drag effect (FD)
-	
 <video src="https://user-images.githubusercontent.com/63759578/177237712-94ff27e7-3ae4-4894-9c56-1fd04a639a06.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177237712-94ff27e7-3ae4-4894-9c56-1fd04a639a06.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
-
 </video>
+In this illusion, the two lines are dragged in the direction of motion. In this example, the lines are always presented vertically aligned. 
 
 Whitney, D., & Cavanagh, P. (2000). Motion distorts visual space: shifting the perceived position of remote stationary objects. _Nature Neuroscience,    3_, 954–959. https://doi.org/10.1038/78878
-		
 
 ### Flash-grab effect (FG)
 	
