@@ -38,8 +38,9 @@ Fröhlich, F.W. (1924). Über die Messung der Empfindungszeit. _Pflügers Arch, 
 ### Drifting Gabors (Gab)
 	
 
-https://user-images.githubusercontent.com/63759578/177273456-f5197834-1f4d-4cff-9393-015b09547898.mp4
-<video src="https://user-images.githubusercontent.com/63759578/177273456-f5197834-1f4d-4cff-9393-015b09547898.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177273456-f5197834-1f4d-4cff-9393-015b09547898.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
+https://user-images.githubusercontent.com/63759578/177276287-84b8f3cd-f997-4afe-9c19-14b437711063.mp4
+
+<video src="https://user-images.githubusercontent.com/63759578/177276287-84b8f3cd-f997-4afe-9c19-14b437711063.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177276287-84b8f3cd-f997-4afe-9c19-14b437711063.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
 De Valois, R. L., & De Valois, K. K. (1991). Vernier acuity with stationary moving Gabors. _Vision Research, 31_(9), 1619–1626.    https://doi.org/10.1016/0042-6989(91)90138-U
