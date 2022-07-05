@@ -1,4 +1,4 @@
-# Evidence for disscosiable and shared mechanisms underlying motion-induced position shift illusions
+# Evidence for dissociable and shared mechanisms underlying motion-induced position shift illusions
 _Cottier, T., Turner, W., Holcombe, A., & Hogendoorn, H._
 
 This website provides videos of the motion-induced position shifts we used in our study. 
@@ -6,10 +6,9 @@ This website provides videos of the motion-induced position shifts we used in ou
 
 ### Flash-drag effect (FD)
 	
+<video src="https://user-images.githubusercontent.com/63759578/177237712-94ff27e7-3ae4-4894-9c56-1fd04a639a06.mp4" datya-canonical-src="https://user-images.githubusercontent.com/63759578/177237712-94ff27e7-3ae4-4894-9c56-1fd04a639a06.mp4" controls="controls" muted="muted">
 
-https://user-images.githubusercontent.com/63759578/177237712-94ff27e7-3ae4-4894-9c56-1fd04a639a06.mp4
-
-
+</video>
 
 Whitney, D., & Cavanagh, P. (2000). Motion distorts visual space: shifting the perceived position of remote stationary objects. _Nature Neuroscience,    3_, 954–959. https://doi.org/10.1038/78878
 		
