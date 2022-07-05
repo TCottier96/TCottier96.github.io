@@ -6,7 +6,7 @@ This website provides videos of the motion-induced position shifts we used in ou
 
 ### Flash-drag effect (FD)
 	
-<video src="https://user-images.githubusercontent.com/63759578/177237712-94ff27e7-3ae4-4894-9c56-1fd04a639a06.mp4" datya-canonical-src="https://user-images.githubusercontent.com/63759578/177237712-94ff27e7-3ae4-4894-9c56-1fd04a639a06.mp4" controls="controls" muted="muted">
+<video src="https://user-images.githubusercontent.com/63759578/177237712-94ff27e7-3ae4-4894-9c56-1fd04a639a06.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177237712-94ff27e7-3ae4-4894-9c56-1fd04a639a06.mp4" autoplay controls="controls" muted="muted" height="400" width="400">
 
 </video>
 
