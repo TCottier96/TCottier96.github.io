@@ -37,7 +37,6 @@ Fröhlich, F.W. (1924). Über die Messung der Empfindungszeit. _Pflügers Arch, 
 
 ### Drifting Gabors (Gab)
 
-https://user-images.githubusercontent.com/63759578/177280100-46042f52-c6b1-40af-9929-5747665dcbdc.mp4
 <video src="https://user-images.githubusercontent.com/63759578/177280100-46042f52-c6b1-40af-9929-5747665dcbdc.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 The top and bottom Gabors were always vertically aligned, but because motion is biasing the object's position, you may have seen the top gabors slightly closer to the edge of the screen than the bottom gabors. The Gabors  were always stationary, but their gratings were phase modulated. The bottom gabors always moved in the opposite direction of the top gabors. In this example, the top gabors are moving towards the edge of the screen, whereas the bottom gabors are moving towards the centre of the screen. 
