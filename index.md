@@ -12,7 +12,11 @@ In this illusion, the two lines are dragged in the direction of the grating's mo
 Whitney, D., & Cavanagh, P. (2000). Motion distorts visual space: shifting the perceived position of remote stationary objects. _Nature Neuroscience,    3_, 954–959. https://doi.org/10.1038/78878
 
 ### Flash-grab effect (FG)
-	
+<video src="https://user-images.githubusercontent.com/63759578/177295003-cca0a043-8d06-4ace-a46f-0935c23943cc.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177295003-cca0a043-8d06-4ace-a46f-0935c23943cc.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
+</video>
+
+In this example, an annulus rotates clockwise for 900ms, then reverses direction, rotating counterclockwise for 500ms. At the time of the reversal, a red circle is presented in the bottom centre of the circle for 16.67ms. 
+
 
 Cavanagh, P., & Anstis, S. (2013). The flash grab effect. _Vision Research, 91_, 8–20. https://doi.org/10.1016/j.visres.2013.07.007
 	
