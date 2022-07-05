@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Evidence for disscosiable and shared mechanisms underlying motion-induced position shift illusions
+_Cottier, T., Turner, W., Holcombe, A., & Hogendoorn, H._
 
-You can use the [editor on GitHub](https://github.com/TCottier96/TCottier96.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This website provides videos of the motion-induced position shifts we used in our study. 
+	
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Flash-drag effect (FD)
+	
 
-### Markdown
+Whitney, D., & Cavanagh, P. (2000). Motion distorts visual space: shifting the perceived position of remote stationary objects. _Nature Neuroscience,    3_, 954–959. https://doi.org/10.1038/78878
+		
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Flash-grab effect (FG)
+	
 
-```markdown
-Syntax highlighted code block
+Cavanagh, P., & Anstis, S. (2013). The flash grab effect. _Vision Research, 91_, 8–20. https://doi.org/10.1016/j.visres.2013.07.007
+	
 
-# Header 1
-## Header 2
-### Header 3
+### Flash-lag effect (FLE)
+	
 
-- Bulleted
-- List
+Nijhawan, R. (1994). Motion extrapolation in catching. _Nature, 370, 256–257. https://doi.org/10.1038/370256b0
+	
 
-1. Numbered
-2. List
+### Luminance flash-lag effect (Lum)
+	
 
-**Bold** and _Italic_ and `Code` text
+Sheth, B. R., Nijhawan, R., & Shimojo, S. (2000). Changing objects lead briefly flashed ones. _Nature Neuroscience, 3_(5), 489–495. https://doi.org/10.1038/74865
+	
 
-[Link](url) and ![Image](src)
-```
+### Fröhlich effect (Froh)
+	
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Fröhlich, F.W. (1924). Über die Messung der Empfindungszeit. _Pflügers Arch, 202_, 566–572. https://doi.org/10.1007/BF01723521
+	
 
-### Jekyll Themes
+### Drifting Gabors (Gab)
+	
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TCottier96/TCottier96.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+De Valois, R. L., & De Valois, K. K. (1991). Vernier acuity with stationary moving Gabors. _Vision Research, 31_(9), 1619–1626.    https://doi.org/10.1016/0042-6989(91)90138-U
+	
 
-### Support or Contact
+### Twinkle-goes illusion (TG)
+	
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Nakayama, R., & Holcombe, A. (2021). A dynamic noise background reveals perceptual motion extrapolation: The twinkle-goes illusion. _Journal of Vision, 21_(11):14, 1-14. https://doi.org/10.1167/jov.21.11.14
+	
+
+### Flash-jump effect (FJ)
+	
+
+Cai, R., & Schlag, J. (2001). A new form of illusory conjunction between color and shape. Journal of Vision, 1(3), 127–127. https://doi.org/10.1167/1.3.127
+	
+
+
