@@ -7,7 +7,7 @@ This website provides videos of the motion-induced position shifts we used in ou
 ### Flash-drag effect (FD)
 <video src="https://user-images.githubusercontent.com/63759578/177237712-94ff27e7-3ae4-4894-9c56-1fd04a639a06.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177237712-94ff27e7-3ae4-4894-9c56-1fd04a639a06.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
-In this illusion, the two lines are dragged in the direction of motion. In this example, the lines are always presented vertically aligned. 
+In this illusion, the two lines are dragged in the direction of the grating's motion. The right grating is always moving in the opposite direction of the left grating, and the lines are presented in vertical alignment. When the lines are first flashed, you should perceive the right flash to be dragged upwards above the left flash, as the right grating is going upwards. On the flashes second presentation, you should perceive the right flash to be dragged downwards, below the left flash.  
 
 Whitney, D., & Cavanagh, P. (2000). Motion distorts visual space: shifting the perceived position of remote stationary objects. _Nature Neuroscience,    3_, 954–959. https://doi.org/10.1038/78878
 
@@ -37,11 +37,13 @@ Fröhlich, F.W. (1924). Über die Messung der Empfindungszeit. _Pflügers Arch, 
 
 ### Drifting Gabors (Gab)
 	
+https://user-images.githubusercontent.com/63759578/177277261-a0c37291-3a06-42b2-8dc6-62ca8aade849.mp4
 
-https://user-images.githubusercontent.com/63759578/177276287-84b8f3cd-f997-4afe-9c19-14b437711063.mp4
-
-<video src= "https://user-images.githubusercontent.com/63759578/177276287-84b8f3cd-f997-4afe-9c19-14b437711063.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177276287-84b8f3cd-f997-4afe-9c19-14b437711063.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
+<video src="https://user-images.githubusercontent.com/63759578/177277261-a0c37291-3a06-42b2-8dc6-62ca8aade849.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177277261-a0c37291-3a06-42b2-8dc6-62ca8aade849.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
+
+The top and bottom Gabors were always vertically aligned, but because motion is biasing the object's position, you may have seen the top gabors slightly closer to the edge of the screen than the bottom gabors. The Gabors  were always stationary, but their gratings were phase modulated. The bottom gabors always moved in the opposite direction of the top gabors. In this example, the top gabors are moving towards the edge of the screen, whereas the bottom gabors are moving towards the centre of the screen. 
+
 
 De Valois, R. L., & De Valois, K. K. (1991). Vernier acuity with stationary moving Gabors. _Vision Research, 31_(9), 1619–1626.    https://doi.org/10.1016/0042-6989(91)90138-U
 	
