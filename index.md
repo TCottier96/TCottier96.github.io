@@ -24,7 +24,7 @@ Cavanagh, P., & Anstis, S. (2013). The flash grab effect. _Vision Research, 91_,
 ### Flash-lag effect (FLE)
 	
 
-Nijhawan, R. (1994). Motion extrapolation in catching. _Nature, 370, 256–257. https://doi.org/10.1038/370256b0
+Nijhawan, R. (1994). Motion extrapolation in catching. _Nature, 370_, 256–257. https://doi.org/10.1038/370256b0
 	
 
 ### Luminance flash-lag effect (Lum)
@@ -34,7 +34,10 @@ Sheth, B. R., Nijhawan, R., & Shimojo, S. (2000). Changing objects lead briefly 
 	
 
 ### Fröhlich effect (Froh)
-	
+<video src="https://user-images.githubusercontent.com/63759578/177465611-de15d317-fde6-46b5-842a-4843b4bafdde.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
+</video>
+
+In this example, the rod always starts in the centre of the screen, at zero degrees, pointing straight upwards. Because of motion, you may see the rods starting position on a rightward angle in the direction of motion (clockwise).  
 
 Fröhlich, F.W. (1924). Über die Messung der Empfindungszeit. _Pflügers Arch, 202_, 566–572. https://doi.org/10.1007/BF01723521
 	
