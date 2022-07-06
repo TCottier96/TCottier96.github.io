@@ -14,7 +14,7 @@ This website provides videos of the motion-induced position shift illusions we u
 Whitney, D., & Cavanagh, P. (2000). Motion distorts visual space: shifting the perceived position of remote stationary objects. _Nature Neuroscience,    3_, 954–959. https://doi.org/10.1038/78878
 
 ### Flash-grab effect (FG)
-<video src="https://user-images.githubusercontent.com/63759578/177295003-cca0a043-8d06-4ace-a46f-0935c23943cc.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177295003-cca0a043-8d06-4ace-a46f-0935c23943cc.mp4" loop='true' controls="controls" muted="muted" height="800" width="800">
+<video src="https://user-images.githubusercontent.com/63759578/177295003-cca0a043-8d06-4ace-a46f-0935c23943cc.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177295003-cca0a043-8d06-4ace-a46f-0935c23943cc.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
 **Explanation:** In this example, an annulus rotates clockwise for 900ms, then reverses direction, rotating counterclockwise for 500ms. At the time of the reversal, a red circle is presented in the bottom centre of the circle for 16.67ms. 
