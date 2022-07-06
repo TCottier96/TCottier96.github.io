@@ -1,7 +1,7 @@
 # Evidence for dissociable and shared mechanisms underlying motion-induced position shift illusions
 _Cottier, T., Turner, W., Holcombe, A., & Hogendoorn, H._
 
-This website provides videos of the motion-induced position shifts we used in our study. For more information about the Time in Brain and Behaviour Laboratory, please visit the lab's website: <a href="https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/timing/lab"> timinglab.org</a>.
+This website provides videos of the motion-induced position shift illusions we used in our study. For more information about the Time in Brain and Behaviour Laboratory, please visit the lab's website: <a href="https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/timing/lab"> timinglab.org</a>.
 	
 
 ### Flash-drag effect (FD)
@@ -34,10 +34,18 @@ Nijhawan, R. (1994). Motion extrapolation in catching. _Nature, 370_, 256–257.
 	
 
 ### Luminance flash-lag effect (Lum)
-	
+
+**Continuously changing to be darker** 
+<video src="https://user-images.githubusercontent.com/63759578/177512391-fd1c2dd0-d149-4ea4-9498-e5c3d5bc87ab.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
+</video>
+
+**Continuously changing to be brighter** 
+<video src="https://user-images.githubusercontent.com/63759578/177512597-2ff3ce9c-94a3-4ee4-af17-5c5dbc6791a2.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
+</video>
+
+**Explanation:** In this illusion, there is a target circle either above or below the fixation dot continuously changing in luminance (becoming brighter or darker). At a point in time, a circle with fixed luminance is flashed on the other side of the fixation dot. When the flash is presented, the flashed circle and target circle have the same luminance. Yet, the changing target circle will always be perceived in a luminance value further along it's luminance ramp. For example, if the target is becoming darker, at the time of the flash, it will be perceived as darker than the flash, even though their luminance is identical. 
 
 Sheth, B. R., Nijhawan, R., & Shimojo, S. (2000). Changing objects lead briefly flashed ones. _Nature Neuroscience, 3_(5), 489–495. https://doi.org/10.1038/74865
-	
 
 ### Fröhlich effect (Froh)
 <video src="https://user-images.githubusercontent.com/63759578/177465611-de15d317-fde6-46b5-842a-4843b4bafdde.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
