@@ -35,11 +35,11 @@ Nijhawan, R. (1994). Motion extrapolation in catching. _Nature, 370_, 256–257.
 
 ### Luminance flash-lag effect (Lum)
 
-**Continuously changing to be darker** 
+**Target's luminance is becoming darker** 
 <video src="https://user-images.githubusercontent.com/63759578/177512391-fd1c2dd0-d149-4ea4-9498-e5c3d5bc87ab.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
-**Continuously changing to be brighter** 
+**Target's luminance is becoming brighter** 
 <video src="https://user-images.githubusercontent.com/63759578/177512597-2ff3ce9c-94a3-4ee4-af17-5c5dbc6791a2.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
