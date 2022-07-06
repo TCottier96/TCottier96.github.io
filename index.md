@@ -23,7 +23,7 @@ Cavanagh, P., & Anstis, S. (2013). The flash grab effect. _Vision Research, 91_,
 
 ### Flash-lag effect (FLE)
 
-<video src="https://user-images.githubusercontent.com/63759578/177491824-a72441c1-1d25-4e42-ba95-d4e67fe89cce.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177491824-a72441c1-1d25-4e42-ba95-d4e67fe89cce.mp4" loop='true' controls="controls" muted="muted" height="800" width="800">
+<video src="https://user-images.githubusercontent.com/63759578/177491824-a72441c1-1d25-4e42-ba95-d4e67fe89cce.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177491824-a72441c1-1d25-4e42-ba95-d4e67fe89cce.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
 In this illusion there is a rod rotating clockwise. When the rod reaches zero degrees, a stationary flash is presented in spatio-temporal alignment with this moving rod. While the flash and rod are aligned, the rod is likely seen displaced in the direction of motion.
