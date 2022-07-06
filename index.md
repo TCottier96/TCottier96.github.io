@@ -57,7 +57,7 @@ De Valois, R. L., & De Valois, K. K. (1991). Vernier acuity with stationary movi
 
 In the first example above, when the background noise is static when the squares disappear. The squares appear to disappear in vertical alignment. In the example below, when the background noise is dynamic when the squares disappears, the squares should appear displaced in the direction of motion. 
 
-**Dynamic backgrounsd noise**
+**Dynamic background noise**
 <video src="https://user-images.githubusercontent.com/63759578/177449066-00b58b37-5ccc-4a25-8d06-a486e0be896b.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 Nakayama, R., & Holcombe, A. (2021). A dynamic noise background reveals perceptual motion extrapolation: The twinkle-goes illusion. _Journal of Vision, 21_(11):14, 1-14. https://doi.org/10.1167/jov.21.11.14
