@@ -1,5 +1,5 @@
 # Evidence for dissociable and shared mechanisms underlying motion-induced position shift illusions
-			_Cottier, T., Turner, W., Holcombe, A., & Hogendoorn, H._
+_Cottier, T., Turner, W., Holcombe, A., & Hogendoorn, H._
 
 This website provides videos of the motion-induced position shifts we used in our study. For more information about the Timing in Brain and Behaviour laboratory, please visit our website: timinglab.org.
 	
