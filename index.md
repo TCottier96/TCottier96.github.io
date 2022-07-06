@@ -9,6 +9,7 @@ This website provides videos of the motion-induced position shifts we used in ou
 </video>
 In this illusion, the two flashed lines are dragged in the direction of the grating's motion. The right grating is always moving in the opposite direction of the left grating, and the lines are always presented in vertical alignment. When the right grating is moving upwards, the left grating will be moving downwards, so you should perceive the right flash to be above the left flash. When the right grating is moving downwards, you would expect the opposite, so the right flash should be perceived below the left flash. 
 
+
 Whitney, D., & Cavanagh, P. (2000). Motion distorts visual space: shifting the perceived position of remote stationary objects. _Nature Neuroscience,    3_, 954–959. https://doi.org/10.1038/78878
 
 ### Flash-grab effect (FG)
