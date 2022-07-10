@@ -82,10 +82,11 @@ Nakayama, R., & Holcombe, A. (2021). A dynamic noise background reveals perceptu
 
 ### Flash-jump effect (FJ)
 	
-<video src="https://user-images.githubusercontent.com/63759578/178132187-d2ab9d0d-32cf-456c-ac8e-2aec479aa8e7.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
+**Top bar is shrinking in height, while the bottom bar is growing in height**
+<video src="https://user-images.githubusercontent.com/63759578/178132504-71d9af8d-268c-4ea0-984e-de6b61d4d2c3.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
-
+**Top bar is growing in height, while the bottom bar is shrinking**
 <video src="https://user-images.githubusercontent.com/63759578/178132243-0f7a41cc-bda3-4dd4-a9a3-60b4ba50c6c0.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
