@@ -8,7 +8,7 @@ This website provides videos of the motion-induced position shift illusions we u
 <video src="https://user-images.githubusercontent.com/63759578/177237712-94ff27e7-3ae4-4894-9c56-1fd04a639a06.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177237712-94ff27e7-3ae4-4894-9c56-1fd04a639a06.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
-**Explanation:** In this illusion, the two flashed lines are dragged in the direction of the grating's motion. The right grating is always moving in the opposite direction of the left grating, and the lines are always presented in vertical alignment. When the right grating is moving upwards, the left grating will be moving downwards, so you should perceive the right flash to be above the left flash. When the right grating is moving downwards, you would expect the opposite, so the right flash should be perceived below the left flash. 
+**Explanation:** Two vertically aligned lines are flashed alongside moving gratings. However, these lines are perceived unaligned, with their perceived positions displaced in the direction of their closest grating's motion. The right grating is always moving in the opposite direction of the left grating. When the right grating is moving upwards, the left grating will be moving downwards, so you should perceive the right line to be above the left line. When the right grating is moving downwards, you would expect the opposite.
 
 
 Whitney, D., & Cavanagh, P. (2000). Motion distorts visual space: shifting the perceived position of remote stationary objects. _Nature Neuroscience,    3_, 954–959. https://doi.org/10.1038/78878
@@ -17,7 +17,7 @@ Whitney, D., & Cavanagh, P. (2000). Motion distorts visual space: shifting the p
 <video src="https://user-images.githubusercontent.com/63759578/177295003-cca0a043-8d06-4ace-a46f-0935c23943cc.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177295003-cca0a043-8d06-4ace-a46f-0935c23943cc.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
-**Explanation:** In this example, an annulus rotates clockwise for 900ms, then reverses direction, rotating counterclockwise for 500ms. At the time of the reversal, a red circle is presented in the bottom centre of the circle for 16.67ms. 
+**Explanation:** An annulus rotates clockwise for 900ms then reverses direction, rotating counterclockwise for 500ms. At the time of the reversal, a red circle is presented in the bottom centre of the circle. This circle is perceived to be dragged in the direction of reversal, so in this example, the red circle will be perceived offset right from the centre. 
 
 
 Cavanagh, P., & Anstis, S. (2013). The flash grab effect. _Vision Research, 91_, 8–20. https://doi.org/10.1016/j.visres.2013.07.007
@@ -28,10 +28,9 @@ Cavanagh, P., & Anstis, S. (2013). The flash grab effect. _Vision Research, 91_,
 <video src="https://user-images.githubusercontent.com/63759578/177491824-a72441c1-1d25-4e42-ba95-d4e67fe89cce.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177491824-a72441c1-1d25-4e42-ba95-d4e67fe89cce.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
-**Explanation:** In this illusion there is a rod rotating clockwise. When the rod reaches zero degrees, a stationary flash is presented in spatio-temporal alignment with this moving rod. While the flash and rod are aligned, the rod is likely seen displaced in the direction of motion.
+**Explanation:** There is a rod rotating clockwise. When the rod reaches zero degrees, a stationary flash is presented in spatio-temporal alignment with this moving rod. While the flash and rod are aligned, the rotating rod is likely seen displaced in the direction of motion, with the flash's position lagging behind. 
 
 Nijhawan, R. (1994). Motion extrapolation in catching. _Nature, 370_, 256–257. https://doi.org/10.1038/370256b0
-	
 
 ### Luminance flash-lag effect (Lum)
 
@@ -43,7 +42,7 @@ Nijhawan, R. (1994). Motion extrapolation in catching. _Nature, 370_, 256–257.
 <video src="https://user-images.githubusercontent.com/63759578/177512597-2ff3ce9c-94a3-4ee4-af17-5c5dbc6791a2.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
-**Explanation:** In this illusion, there is a target circle either above or below the fixation dot continuously changing in luminance (becoming brighter or darker). At a point in time, a circle with fixed luminance is flashed on the other side of the fixation dot. When the flash is presented, the flashed circle and target circle have the same luminance. Yet, the changing target circle will always be perceived in a luminance value further along it's luminance ramp. For example, if the target is becoming darker, at the time of the flash, it will be perceived as darker than the flash, even though their luminance is identical. 
+**Explanation:** There is a target circle either above or below the fixation dot continuously changing in luminance (becoming brighter or darker). At a point in time, a circle with fixed luminance is flashed on the other side of the fixation dot. When the flash is presented, the flashed circle and target circle have the same luminance. Yet, the changing target circle will always be perceived with a luminance value further along it's luminance ramp. For example, if the target is becoming darker, at the time of the flash, it will be perceived as darker than the flash, even though their luminance is identical. 
 
 Sheth, B. R., Nijhawan, R., & Shimojo, S. (2000). Changing objects lead briefly flashed ones. _Nature Neuroscience, 3_(5), 489–495. https://doi.org/10.1038/74865
 
@@ -51,7 +50,7 @@ Sheth, B. R., Nijhawan, R., & Shimojo, S. (2000). Changing objects lead briefly 
 <video src="https://user-images.githubusercontent.com/63759578/177465611-de15d317-fde6-46b5-842a-4843b4bafdde.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
-**Explanation:** In this example, the rod always starts in the centre of the screen, at zero degrees, pointing straight upwards. Because of motion, you may see the rods starting position on a rightward angle in the direction of motion (clockwise).  
+**Explanation:** In this example, the rod always starts positioned in the centre of the screen, at zero degrees, pointing straight upwards. Motion biases the starting position of the rod in its direction of motion, so its starting position is perceived to be displaced clockwise.
 
 Fröhlich, F.W. (1924). Über die Messung der Empfindungszeit. _Pflügers Arch, 202_, 566–572. https://doi.org/10.1007/BF01723521
 	
@@ -61,7 +60,7 @@ Fröhlich, F.W. (1924). Über die Messung der Empfindungszeit. _Pflügers Arch, 
 <video src="https://user-images.githubusercontent.com/63759578/177280100-46042f52-c6b1-40af-9929-5747665dcbdc.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
-**Explanation:** The top and bottom Gabors were always vertically aligned, but because motion is biasing the object's position, you may have seen the top gabors slightly closer to the edge of the screen than the bottom gabors. The Gabors  were always stationary, but their gratings were phase modulated. The bottom gabors always moved in the opposite direction of the top gabors. In this example, the top gabors are moving towards the edge of the screen, whereas the bottom gabors are moving towards the centre of the screen. 
+**Explanation:** The top and bottom Gabors were always horizontally aligned, but because motion is biasing the object's position, you may have seen the top gabors slightly closer to the edge of the screen than the bottom gabors. The Gabors  were always stationary, but their gratings were phase modulated. The bottom gabors always moved in the opposite direction of the top gabors. In this example, the top gabors are moving towards the edge of the screen, whereas the bottom gabors are moving towards the centre of the screen. 
 
 
 De Valois, R. L., & De Valois, K. K. (1991). Vernier acuity with stationary moving Gabors. _Vision Research, 31_(9), 1619–1626.    https://doi.org/10.1016/0042-6989(91)90138-U
@@ -77,7 +76,7 @@ De Valois, R. L., & De Valois, K. K. (1991). Vernier acuity with stationary movi
 </video>
 Nakayama, R., & Holcombe, A. (2021). A dynamic noise background reveals perceptual motion extrapolation: The twinkle-goes illusion. _Journal of Vision, 21_(11):14, 1-14. https://doi.org/10.1167/jov.21.11.14
 	
-**Explanation:** In this illusion, the two squares always disappear when they are vertically aligned. When the background noise is static when the squares disappear, the squares final position should appear vertically aligned. When the background noise is dynamic, the squares final position should appear displaced in their direction of motion. 
+**Explanation:** The two squares always disappear when they are vertically aligned. When the background noise is static when the squares disappear, the squares final position should appear vertically aligned. When the background noise is dynamic, the square's final positions should appear displaced in their direction of motion. 
 
 
 ### Flash-jump effect (FJ)
@@ -89,4 +88,7 @@ Nakayama, R., & Holcombe, A. (2021). A dynamic noise background reveals perceptu
 **Top bar is growing in height, while the bottom bar is shrinking**
 <video src="https://user-images.githubusercontent.com/63759578/178132243-0f7a41cc-bda3-4dd4-a9a3-60b4ba50c6c0.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
+
+**Explanation:** Two bars are moving towards each other while their height changes. The bottom bar changes height in the opposite pattern of the top bar. When the bars are vertically aligned, their height is identical and they briefly flash white. However, this white flash is often perceived further along the bar's motion and height trajectory. To clarify, if the bar is moving left to right and increasing in height, at the time of the flash, the flash won't be perceived in the centre, but will be perceived on a taller bar in a position to the right of centre. 
+
 Cai, R., & Schlag, J. (2001). A new form of illusory conjunction between color and shape. Journal of Vision, 1(3), 127–127. https://doi.org/10.1167/1.3.127
