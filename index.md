@@ -89,5 +89,4 @@ Nakayama, R., & Holcombe, A. (2021). A dynamic noise background reveals perceptu
 **Top bar is growing in height, while the bottom bar is shrinking**
 <video src="https://user-images.githubusercontent.com/63759578/178132243-0f7a41cc-bda3-4dd4-a9a3-60b4ba50c6c0.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
-
 Cai, R., & Schlag, J. (2001). A new form of illusory conjunction between color and shape. Journal of Vision, 1(3), 127–127. https://doi.org/10.1167/1.3.127
