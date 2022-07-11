@@ -90,6 +90,6 @@ Nakayama, R., & Holcombe, A. (2021). A dynamic noise background reveals perceptu
 <video src="https://user-images.githubusercontent.com/63759578/178132243-0f7a41cc-bda3-4dd4-a9a3-60b4ba50c6c0.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
-**Explanation:** Two bars are moving towards each other while their height changes. The bottom bar changes height in the opposite pattern of the top bar. When the bars are vertically aligned, their height is identical and they briefly flash white. However, this white flash is perceived on a bar further along the bar's motion and height trajectory. To clarify, if the bar is moving left to right and increasing in height, at the time of the flash, the flash won't be perceived in the centre, but will be perceived on a taller bar in a position right of centre. 
+**Explanation:** Two bars are moving towards each other while their height changes. The bottom bar changes height in the opposite direction to the top bar. When the bars are vertically aligned, their height is identical and they briefly flash white. However, this white flash is perceived on a bar further along the bar's motion and height trajectory. To clarify, if the bar is moving left to right and increasing in height, at the time of the flash, the flash won't be perceived in the centre, but will be perceived on a taller bar in a position right of centre. 
 
 Cai, R., & Schlag, J. (2001). A new form of illusory conjunction between color and shape. Journal of Vision, 1(3), 127–127. https://doi.org/10.1167/1.3.127
