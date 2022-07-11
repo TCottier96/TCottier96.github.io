@@ -29,7 +29,7 @@ Cavanagh, P., & Anstis, S. (2013). The flash grab effect. _Vision Research, 91_,
 <video src="https://user-images.githubusercontent.com/63759578/177491824-a72441c1-1d25-4e42-ba95-d4e67fe89cce.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177491824-a72441c1-1d25-4e42-ba95-d4e67fe89cce.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
-**Explanation:** There is a rod rotating clockwise. When the rod reaches zero degrees, a stationary flash is presented in spatio-temporal alignment with this moving rod. While the flash and rod are aligned, the rotating rod is perceived in a direction further along its motion trajectory, with the flash's position lagging behind. 
+**Explanation:** There is a rod rotating clockwise. When the rod reaches zero degrees, a stationary flash is presented in spatio-temporal alignment with this moving rod. While the flash and rod are aligned, the rotating rod is perceived in a position further along its motion trajectory, with the flash lagging behind. 
 
 Nijhawan, R. (1994). Motion extrapolation in catching. _Nature, 370_, 256–257. https://doi.org/10.1038/370256b0
 
