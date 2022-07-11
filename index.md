@@ -18,7 +18,7 @@ Whitney, D., & Cavanagh, P. (2000). Motion distorts visual space: shifting the p
 <video src="https://user-images.githubusercontent.com/63759578/177295003-cca0a043-8d06-4ace-a46f-0935c23943cc.mp4" data-canonical-src="https://user-images.githubusercontent.com/63759578/177295003-cca0a043-8d06-4ace-a46f-0935c23943cc.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
-**Explanation:** An annulus rotates clockwise for 900ms then reverses direction, rotating counterclockwise for 500ms. At the time of the reversal, a red circle is presented in the bottom centre of the annulus. This circle is perceived to be dragged in the direction of reversal. In this example the annulus reverses counterclockwise, therefore, the red circle will be perceived offset right from the centre. 
+**Explanation:** An annulus rotates clockwise for 900ms then reverses direction, rotating counterclockwise for 500ms. At the time of the reversal, a red circle is presented in the bottom centre of the annulus. This circle is perceived to be grabbed in the reversal direction. In this example the annulus reverses counterclockwise, therefore, the red circle will be perceived offset right from the centre. 
 
 
 Cavanagh, P., & Anstis, S. (2013). The flash grab effect. _Vision Research, 91_, 8–20. https://doi.org/10.1016/j.visres.2013.07.007
