@@ -61,7 +61,7 @@ Fröhlich, F.W. (1924). Über die Messung der Empfindungszeit. _Pflügers Arch, 
 <video src="https://user-images.githubusercontent.com/63759578/177280100-46042f52-c6b1-40af-9929-5747665dcbdc.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
-**Explanation:** There are four stationary gabors with phase modulated gratings. The top and bottom gabors were always horizontally aligned, but the bottom gabor's gratings always moved in the opposite direction of the top gabor's. Motion biases the object's position, so the gabors are perceived in a position in the direction the grating's rotate. In this example, the top gabors should be perceived to the right of the bottom gabors.
+**Explanation:** There are four stationary gabors with phase modulated gratings. The top and bottom gabors were always horizontally aligned, but the bottom gabor's gratings always moved in the opposite direction of the top gabor's. Motion biases the object's position, so the gabors are perceived in a position in the direction their grating's rotate. In this example, the top gabors should be perceived in a position to the right of the bottom gabors.
 
 
 De Valois, R. L., & De Valois, K. K. (1991). Vernier acuity with stationary moving Gabors. _Vision Research, 31_(9), 1619–1626.    https://doi.org/10.1016/0042-6989(91)90138-U
