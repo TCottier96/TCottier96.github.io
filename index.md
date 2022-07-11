@@ -77,7 +77,7 @@ De Valois, R. L., & De Valois, K. K. (1991). Vernier acuity with stationary movi
 </video>
 Nakayama, R., & Holcombe, A. (2021). A dynamic noise background reveals perceptual motion extrapolation: The twinkle-goes illusion. _Journal of Vision, 21_(11):14, 1-14. https://doi.org/10.1167/jov.21.11.14
 	
-**Explanation:** The two squares always disappear when they are vertically aligned. When the background noise is static when the squares disappear, the square's final position should appear vertically aligned. When the background noise is dynamic, the square's final positions should appear displaced in their direction of motion. 
+**Explanation:** The two squares always disappear when they are vertically aligned. When the background noise is static when the squares disappear, the squares' final position should appear vertically aligned. When the background noise is dynamic, the squares' final positions should appear displaced in their direction of motion. 
 
 
 ### Flash-jump effect (FJ)
