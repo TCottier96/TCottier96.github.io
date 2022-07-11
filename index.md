@@ -43,7 +43,7 @@ Nijhawan, R. (1994). Motion extrapolation in catching. _Nature, 370_, 256–257.
 <video src="https://user-images.githubusercontent.com/63759578/177512597-2ff3ce9c-94a3-4ee4-af17-5c5dbc6791a2.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
-**Explanation:** There is a target circle either above or below the fixation dot continuously changing in luminance (becoming brighter or darker). At a point in time, a circle with fixed luminance is flashed on the other side of the fixation dot. When the flash is presented, the flashed circle and target circle have the same luminance. Yet, the changing target circle will always be perceived with a luminance value further along it's luminance ramp. For example, at the time of the flash, if the target is becoming darker, then the target will be perceived as darker than the flash, even though their luminance is identical. 
+**Explanation:** There is a target circle either above or below the fixation dot continuously changing in luminance (becoming brighter or darker). At a point in time, a circle with fixed luminance is flashed on the other side of the fixation dot. When the flash is presented, the flashed circle and target circle have the same luminance. Yet, the changing target circle will always be perceived with a luminance value further along its luminance ramp. For example, at the time of the flash, if the target is becoming darker, then the target will be perceived as darker than the flash, even though their luminance is identical. 
 
 Sheth, B. R., Nijhawan, R., & Shimojo, S. (2000). Changing objects lead briefly flashed ones. _Nature Neuroscience, 3_(5), 489–495. https://doi.org/10.1038/74865
 
