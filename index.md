@@ -51,7 +51,7 @@ Sheth, B. R., Nijhawan, R., & Shimojo, S. (2000). Changing objects lead briefly 
 <video src="https://user-images.githubusercontent.com/63759578/177465611-de15d317-fde6-46b5-842a-4843b4bafdde.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
-**Explanation:** In this example, the rod always starts positioned in the centre of the screen pointing straight upwards. Motion biases the starting position of the rod in its direction of motion, so the rod is perceived to start in a position further along its motion trajectory.
+**Explanation:** In this example, the rod always starts positioned in the centre of the screen pointing straight upwards. Motion biases the starting position of the rod in its direction of motion, so the rod is perceived to start in a clockwise position further along its motion trajectory.
 
 Fröhlich, F.W. (1924). Über die Messung der Empfindungszeit. _Pflügers Arch, 202_, 566–572. https://doi.org/10.1007/BF01723521
 	
