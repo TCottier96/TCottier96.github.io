@@ -1,7 +1,7 @@
-# Evidence for dissociable and shared mechanisms underlying motion-induced position shift illusions
+# Shared mechanisms underlie some but not all motion-position illusions. 
 _Cottier, T., Turner, W., Holcombe, A., & Hogendoorn, H._
 
-This website provides videos of the motion-induced position shift illusions we used. For more information about the Time in Brain and Behaviour Laboratory, please visit the lab's website: <a href="https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/timing/lab"> timinglab.org</a>.
+This website provides videos of the motion-position illusions we used. For more information about the Time in Brain and Behaviour Laboratory, please visit the lab's website: <a href="https://research.qut.edu.au/timinglab/"> timinglab.org</a>.
 	
 
 ### Flash-drag effect (FD)
@@ -33,7 +33,7 @@ Cavanagh, P., & Anstis, S. (2013). The flash grab effect. _Vision Research, 91_,
 
 Nijhawan, R. (1994). Motion extrapolation in catching. _Nature, 370_, 256–257. https://doi.org/10.1038/370256b0
 
-### Luminance flash-lag effect (Lum)
+### Luminance flash-lag effect (LUM-FLE)
 
 **Target's luminance is becoming darker** 
 <video src="https://user-images.githubusercontent.com/63759578/177512391-fd1c2dd0-d149-4ea4-9498-e5c3d5bc87ab.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
@@ -47,7 +47,7 @@ Nijhawan, R. (1994). Motion extrapolation in catching. _Nature, 370_, 256–257.
 
 Sheth, B. R., Nijhawan, R., & Shimojo, S. (2000). Changing objects lead briefly flashed ones. _Nature Neuroscience, 3_(5), 489–495. https://doi.org/10.1038/74865
 
-### Fröhlich effect (Froh)
+### Fröhlich effect (FE)
 <video src="https://user-images.githubusercontent.com/63759578/177465611-de15d317-fde6-46b5-842a-4843b4bafdde.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
 
@@ -56,7 +56,7 @@ Sheth, B. R., Nijhawan, R., & Shimojo, S. (2000). Changing objects lead briefly 
 Fröhlich, F.W. (1924). Über die Messung der Empfindungszeit. _Pflügers Arch, 202_, 566–572. https://doi.org/10.1007/BF01723521
 	
 
-### Drifting Gabors (Gab)
+### Motion induced position shift (MIPS)
 
 <video src="https://user-images.githubusercontent.com/63759578/177280100-46042f52-c6b1-40af-9929-5747665dcbdc.mp4" autoplay loop='true' controls="controls" muted="muted" height="800" width="800">
 </video>
